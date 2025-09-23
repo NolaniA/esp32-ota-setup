@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "url": "https://<owner>.github.io/<repo>/firmware-1.0.0.bin",
+  "url": "https://nolania.github.io/esp32-ota-setup/firmware-1.0.0.bin",
   "sha256": ""
 }
