@@ -1,6 +1,6 @@
 {
-    "update" : false,
-    "delay_ms" : 10000,
+    "update" : true,
+    "delay_ms" : 100000,
     "url_update" : "https://nolania.github.io/esp32-ota-setup/update.json",
     "url_send" : ""
 }
